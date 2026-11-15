@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 261c4c220a959a243924d124dd28f9a0, type: 3}
+  m_Name: SESound
+  m_EditorClassIdentifier: Assembly-CSharp::SoundData
+  soundtype: 0
+  sound:
+  - {fileID: 8300000, guid: 7e7df7aeabdc1f74faceab4faf683a90, type: 3}
+  - {fileID: 8300000, guid: c4da507e6998ad84b873bd1e23cb132f, type: 3}
+  - {fileID: 8300000, guid: 4c6c712ab3f49154ebe8d244e263600f, type: 3}
+  - {fileID: 8300000, guid: b463908a5d9b3534ea65fc52f50c9494, type: 3}
+  - {fileID: 8300000, guid: ebdd8ead0442d46419ec178959993c02, type: 3}
+  - {fileID: 8300000, guid: 747f4a467c747df41b4378feccd64fbf, type: 3}
+  - {fileID: 8300000, guid: 1094cf63daf0cda4fb3befc0ffff0548, type: 3}
+  - {fileID: 8300000, guid: 61e3544d03d72524eb8a1d4d8e7a0edc, type: 3}
+  - {fileID: 8300000, guid: 9f8721a4a07c92848ae3075a47f6e5df, type: 3}
+  - {fileID: 8300000, guid: edca047f552bfa64bac0c8c744c56d51, type: 3}
+  - {fileID: 8300000, guid: 1094cf63daf0cda4fb3befc0ffff0548, type: 3}
+  - {fileID: 8300000, guid: 1094cf63daf0cda4fb3befc0ffff0548, type: 3}
